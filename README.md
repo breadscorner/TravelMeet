@@ -1,10 +1,8 @@
-# TravelMeet
-
-## Overview
+# TravelMeet 🛩️
 
 TravelMeet is a social media web application designed to help users connect with locals and discover events in specific locations. Whether you're a traveler looking to meet new people or interested in finding exciting events in your area, TravelMeet has you covered.
 
-## Tech Stack
+## Tech Stack 💻
 
 TravelMeet is built using a diverse tech stack, including:
 
@@ -27,7 +25,7 @@ TravelMeet is built using a diverse tech stack, including:
 - **Multer**: Middleware for handling file uploads
 - **Sharp**: Image processing library for efficient image handling
 
-## Features
+## Features 🎯
 
 - **Real-time Location Sharing**: See the real-time locations of other users and events on the map.
 - **User Profiles**: View user profiles, follow other users, and connect with like-minded individuals.
